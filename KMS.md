@@ -7,6 +7,7 @@ KMS常用命令
 ### win10
 
 Win10 企业版KMS：NPPR9-FWDCX-D2C8J-H872K-2YT43
+
 Win10 专业版KMS：W269N-WFGWX-YVC9B-4J6C9-T83GX
 
 ### win8
@@ -15,6 +16,7 @@ Win10 专业版KMS：W269N-WFGWX-YVC9B-4J6C9-T83GX
 ### win7
 
 旗舰版: FJGCP-4DFJD-GJY49-VJBQ7-HYRR2
+
 专业版: YKHFT-KW986-GK4PY-FDWYH-7TP9F
 
 KMS命令
@@ -48,8 +50,11 @@ slmgr /skms 54.223.212.31
 slmgr /skms mhd.kmdns.net
 
 ~~slmgr /skms kms.guowaifuli.com~~
+
 ~~slmgr /skms 110.noip.me:1688~~
+
 ~~slmgr /skms kms.xspace.in~~
+
 ~~slmgr /skms kms.aglc.cc~~ 
 
 
