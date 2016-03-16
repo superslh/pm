@@ -1,0 +1,98 @@
+Python学习
+================
+
+空行
+------
+
+表示
+
+缩进
+------
+
+
+判断语句
+-----------
+
+if 语句的判断条件可以用>（大于）、<(小于)、==（等于）、>=（大于等于）、<=（小于等于）来表示其关系。
+
+<pre>
+if 判断条件：
+    执行语句……
+else：
+    执行语句……
+</pre>
+
+<pre>
+f 判断条件1:
+    执行语句1……
+elif 判断条件2:
+    执行语句2……
+elif 判断条件3:
+    执行语句3……
+else:
+    执行语句4……
+</pre>
+
+循环语句
+-----------
+
+### while
+
+<pre>
+count = 0
+while (count < 9):
+   print 'The count is:', count
+   count = count + 1
+
+print "Good bye!"
+</pre>
+
+### for
+
+<pre>
+
+for letter in 'Python':     # 第一个实例
+   print '当前字母 :', letter
+
+fruits = ['banana', 'apple',  'mango']
+for fruit in fruits:        # 第二个实例
+   print '当前字母 :', fruit
+
+print "Good bye!"
+
+</pre>
+
+<pre>
+
+fruits = ['banana', 'apple',  'mango']
+for fruit in fruits:
+    print 'fruit is :' , fruit   # 注意是逗号相连
+
+</pre>
+
+
+文件IO
+-----------
+参考：http://www.runoob.com/python/python-files-io.html
+
+### 打印到屏幕
+
+### 读取键盘输入
+
+- raw_input
+- input
+
+### 打开关闭文件
+
+#### open
+
+ - 
+ - write	
+ - read()方法	
+ - close()方法	 
+
+
+ - 安装pip
+ - 安装easy-install
+ - 安装libxml（用于xpath寻找网页元素）
+学习Scrapy入门 http://www.jianshu.com/p/a8aad3bf4dc4
